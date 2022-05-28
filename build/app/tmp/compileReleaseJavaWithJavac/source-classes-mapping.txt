@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/fire_crud/MainActivity.java
+ com.example.fire_crud.MainActivity
+com/example/fire_crud/BuildConfig.java
+ com.example.fire_crud.BuildConfig

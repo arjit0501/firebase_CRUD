@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">151037884573-uo4472a4l4i4ji0g95r57qjgs4of2lpt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">151037884573</string>
+    <string name="google_api_key" translatable="false">AIzaSyB0YBBO5y1MLM3wOsfOdVHd2qBICnXd0gQ</string>
+    <string name="google_app_id" translatable="false">1:151037884573:android:57bdf30c5145abfe98bc74</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB0YBBO5y1MLM3wOsfOdVHd2qBICnXd0gQ</string>
+    <string name="google_storage_bucket" translatable="false">fire-crud-866a3.appspot.com</string>
+    <string name="project_id" translatable="false">fire-crud-866a3</string>
+</resources>
